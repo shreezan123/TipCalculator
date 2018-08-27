@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "5ab4a602874aa4610966a9c53f6cfa80"
+build_time: [588701147, 919929000]
+inputs:
+  "/Users/shrijanaryal/Desktop/ios/TipCalculator/TipCalculator/ViewController.swift": [588701117, 0]
+  "/Users/shrijanaryal/Desktop/ios/TipCalculator/TipCalculator/AppDelegate.swift": [588363150, 0]

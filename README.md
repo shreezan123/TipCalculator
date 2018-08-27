@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="Fx1kJ5Q"><a href="//imgur.com/Fx1kJ5Q">View post on imgur.com</a></blockquote>
+<blockquote class="imgur-embed-pub" lang="en" data-id="Fx1kJ5Q"><a href="//imgur.com/Fx1kJ5Q.gif">View post on imgur.com</a></blockquote>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
